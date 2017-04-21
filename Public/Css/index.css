@@ -1,0 +1,102 @@
+#send {
+	display: block;
+	width: 120px;
+	height: 65px;
+	cursor: pointer;
+	background: url(/design/Public/Images/send.png) no-repeat;
+}
+#send-form {
+	width: 360px;
+	height: 400px;
+	background: #fff;
+	display: none;
+	position: absolute;
+	z-index: 999;
+}
+#send-form form p {
+	width: 340px;
+	height: auto;
+	overflow: hidden;
+	padding: 10px;
+}
+#send-form form p label {
+	display: block;
+	width: 340px;
+	height: 24px;
+	line-height: 24px;
+	color: #888888;
+}
+#font-num {
+	font-family :'Constantia,Georgia';
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	color: #444444;
+}
+#send-form input{
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	width: 180px;
+	height: 24px;
+	padding: 5px;
+}
+#send-form textarea{
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: none;
+	padding: 5px;
+	width: 300px;
+	height: 80px;
+}
+textarea:focus,
+input[type="text"]:focus{
+    border-color: rgba(82, 168, 236, 0.8);
+    outline: 0;
+    outline: thin dotted \9;
+    /* IE6-9 */
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+    -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
+}
+#send-form .title {
+	width: 360px;
+	height: 56px;
+	background: url(../Images/send-title.png) repeat-x;
+}
+#send-form .title span {
+	display: block;
+	width: 260px;
+	height: 56px;
+	line-height: 56px;
+	color: #666666;
+    font-size: 18px;
+    font-weight: bold;
+    text-indent: 6em;
+    float: left;
+}
+#send-form .title a {
+	display: block;
+	width: 29px;
+	height: 24px;
+	background: url(../Images/close.png) no-repeat;
+	float: right;
+	margin-top: 16px;
+	margin-right: 10px;
+}
+#send-form .title a:hover {
+	background-position: -43px 0;
+}
+#send-btn {
+	display: block;
+	width: 120px;
+	height: 50px;
+	background: url(../Images/send-btn.png) no-repeat;
+	cursor: pointer;
+	float: right;
+	margin: 10px;
+}
+#main {
+	width: 100%;
+	position: relative;
+}

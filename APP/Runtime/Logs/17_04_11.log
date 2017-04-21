@@ -1,0 +1,8 @@
+[ 2017-04-11T13:06:34+08:00 ] 183.39.232.184 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.000976s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','asdfasdfasfd','/design/Public/images/img4.jpg','17-04-11 13:06') [ RunTime:0.052731s ]
+

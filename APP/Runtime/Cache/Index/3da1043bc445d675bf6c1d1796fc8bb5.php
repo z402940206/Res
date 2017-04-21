@@ -1,0 +1,150 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<title>Contact</title>
+<link href="__ROOT__/Public/css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="__ROOT__/Public/js/jquery.min.js"></script>
+<!-- Custom Theme files -->
+<link href="__ROOT__/Public/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Gardening Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--webfont-->
+<link href='http://fonts.useso.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Niconne' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="__ROOT__/Public/js/move-top.js"></script>
+<script type="text/javascript" src="__ROOT__/Public/js/easing.js"></script>
+<!--/script-->
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},900);
+				});
+			});
+		function initialize() {  
+        //创建地图实例  
+        var map = new BMap.Map('map');  
+        //创建一个坐标
+        var point =new BMap.Point(113.501673,23.455094);
+        //地图初始化，设置中心点坐标和地图级别  
+        map.centerAndZoom(point,15);  
+    }  
+    function namechange(){
+    	var temp=document.getElementById('userName').value;
+    	document.getElementById('username').value=temp;
+    }
+    function emailchange(){
+    	var temp=document.getElementById('userEmail').value;
+    	document.getElementById('useremail').value=temp;
+    }
+</script>
+</head>
+<body >
+	<!-- header-section-starts -->
+	<div class="about-header-banner">
+		<div class="container">
+			<div class="home">
+					<a href="index.html"><span class="glyphicon glyphicon-home"></span></a>
+			</div>
+			<div class="header-top">
+				<div class="social-icons">
+					<i class="facebook"></i>
+					<i class="twitter"></i>
+					<i class="googlepluse"></i>
+				</div>
+				<span class="menu"><img src="__ROOT__/Public/images/nav.png" alt=""/></span>
+				<div class="top-menu">
+					<ul>
+					<nav class="cl-effect-13">
+						<li><a href="<?php echo U("Index/Gallery",'','');?>">图集</a></li>
+						<li><a href="<?php echo U("Index/Index#news",'','');?>">新闻</a></li>
+						<li><a href="<?php echo U("Index/Contact",'','');?>">联系我们</a></li>
+					</nav>
+					</ul>
+				</div>
+				<!-- script for menu -->
+					<script> 
+						$( "span.menu" ).click(function() {
+						$( ".top-menu ul" ).slideToggle( 300, function() {
+						 // Animation complete.
+						});
+						});
+					</script>
+				<!-- //script for menu -->
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="banner-info text-center">
+				<h1><a href="<?php echo U("Index/Index",'','');?>">nature</a></h1>
+			</div>
+		</div>
+	</div>
+	<!-- header-section-ends -->
+	 <!---start-content---->
+		    <div class="contact_desc">
+		        <div class="container">
+			         <div class="contact-form">
+				  	   <h2>联系我们</h2>
+					     <form action="<?php echo U("Index/Contact/handle",'','');?>" method="post" class="left_form">
+					    	<div>
+						    	<span><label>姓名</label></span>
+						    	<span><input id="userName" name="userName"  type="text" onchange="namechange()" style="background-color:#DDDDDD;"></span>
+						    </div>
+
+					    </form>
+					    <form action="<?php echo U("Index/Contact/handle",'','');?>" class="right_form">
+					        <div>					    	
+						    	<span><label>内容</label></span>
+						    	<span><textarea name="userMsg" style="background-color:#DDDDDD;"> </textarea></span>
+						    </div>
+						   <div>
+						   <span><input type="hidden" id="username" name="username"/></span>
+						   	<span><input type="hidden" id="useremail" name="useremail"/></span>
+						   		<span><input type="submit" value="提交" class="myButton"></span>
+						  </div>
+					    </form>
+					    <div class="clearfix"></div>
+				  </div>
+				 <div class="content_bottom">
+				 	<div class="company_address">
+				     	<h3>地址</h3>
+					<address>
+						<p>广东省广州市从化区</p>
+						<p>广从大道13号广州大学华软软件学院</p>
+						<p><span>电话号码</span> :11111111111</p>
+						<span>邮箱 :xxxx@mail.com</span>
+					</address>
+				     </div>
+				       <div class="contact_info">
+    	 				<h3>位置</h3>
+					    	  <div class="map">
+							   	    <iframe width="100%" height="185" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="__ROOT__/APP/Tpl/index/map.html"></iframe><br><small>
+							  </div>
+      				     </div>
+				      <div class="clearfix"></div>
+	                </div>	
+	             </div>  
+	          </div>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+				/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+				*/
+		$().UItoTop({ easingType: 'easeOutQuart' });
+});
+</script>
+<a href="#to-top" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!----> 
+</body>
+</html>

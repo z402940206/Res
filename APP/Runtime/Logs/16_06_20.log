@@ -1,0 +1,794 @@
+[ 2016-06-20T13:02:11+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003657s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('agf','啊帅哥达尔文刚度法不打三发不','/design/Public/images/img4.jpg',1466398931) [ RunTime:0.144554s ]
+
+[ 2016-06-20T13:49:53+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:50:26+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:53:23+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:53:29+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:54:07+08:00 ] 127.0.0.1 /design/index.php/Index/handle.html
+ERR: 无法加载模块:handle
+
+[ 2016-06-20T13:55:43+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:55:49+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T13:56:53+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:09:47+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004830s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asdf','sadfsadf','iiiiiiiiiiiiii',1466402987) [ RunTime:0.128372s ]
+
+[ 2016-06-20T14:14:17+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003852s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('fgd','sdgf','iiiiiiiiiiiiii',1466403257) [ RunTime:0.080050s ]
+
+[ 2016-06-20T14:14:17+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:14:51+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T14:15:47+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004489s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('sadfsadf','asfdsadf','iiiiiiiiiiiiii',1466403347) [ RunTime:0.100715s ]
+
+[ 2016-06-20T14:15:48+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:16:43+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:16:43+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:16:55+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T14:18:24+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:18:24+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:18:37+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:19:49+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:19:49+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:19:58+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:20:39+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:20:39+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:20:44+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:20:51+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:27:29+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:27:29+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:27:38+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+
+[ 2016-06-20T14:27:41+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+
+[ 2016-06-20T14:27:42+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+
+[ 2016-06-20T14:27:42+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+
+[ 2016-06-20T14:27:43+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+
+[ 2016-06-20T14:27:57+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:28:06+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004084s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','sdfaafsdsdfasdfa',null,1466404086) [ RunTime:0.063335s ]
+
+[ 2016-06-20T14:28:07+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004975s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','sdfaafsdsdfasdfa',null,1466404087) [ RunTime:0.028552s ]
+
+[ 2016-06-20T14:28:07+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004684s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','sdfaafsdsdfasdfa',null,1466404087) [ RunTime:0.035284s ]
+
+[ 2016-06-20T14:28:16+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003425s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','sdfaafsdsdfasdfa',null,1466404096) [ RunTime:0.082924s ]
+
+[ 2016-06-20T14:29:34+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:29:34+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T14:29:34+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:29:34+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T14:29:43+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 20 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 26 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 27 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 28 行.
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 32 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003312s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asfd','sdfa',null,1466404182) [ RunTime:0.077006s ]
+
+[ 2016-06-20T14:38:35+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:38:35+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T14:38:35+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T14:38:35+08:00 ] 127.0.0.1 /design/index.php/Index/iiiiiiiiiiiiii
+ERR: 无法加载模块:iiiiiiiiiiiiii
+
+[ 2016-06-20T14:38:45+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002400s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:39:31+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:40:25+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+NOTIC: [2] mkdir(): No such file or directory C:\AppServ\www\design\ThinkPHP\Extend\Library\ORG\Net\UploadFile.class.php 第 167 行.
+
+[ 2016-06-20T14:55:33+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+
+[ 2016-06-20T15:05:18+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] Undefined index: file C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 24 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004053s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('asdfdfsad','asdfdsafdsfasdfasdafdfasdsfaadsf',null,1466406318) [ RunTime:0.050357s ]
+
+[ 2016-06-20T15:05:18+08:00 ] 127.0.0.1 /design/index.php/Index/null
+ERR: 无法加载模块:null
+
+[ 2016-06-20T15:09:12+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:09:12+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:09:22+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+
+[ 2016-06-20T15:10:30+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006628s ]
+
+[ 2016-06-20T15:16:12+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:16:16+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:16:16+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:16:31+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:16:31+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:16:40+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004119s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`time`) VALUES ('afdsdfs','asdfsadfasdfasdfasdfsadfasdfasdfasdf',1466407000) [ RunTime:0.076010s ]
+
+[ 2016-06-20T15:17:10+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003408s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`time`) VALUES ('shukj','kjasdbfgkjsahdfg;jlkehnr;gbljknda;lfkjbadfb',1466407030) [ RunTime:0.074516s ]
+
+[ 2016-06-20T15:18:40+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004842s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`time`) VALUES ('阿斯顿','老卡居委会苏格兰；看见撒谎如果；卢卡斯监护人管理局可和撒发个了可就啊；梵蒂冈看见哈市地方了可个就哈三',1466407120) [ RunTime:0.105676s ]
+
+[ 2016-06-20T15:18:44+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004312s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`time`) VALUES ('阿斯顿','老卡居委会苏格兰；看见撒谎如果；卢卡斯监护人管理局可和撒发个了可就啊；梵蒂冈看见哈市地方了可个就哈三',1466407124) [ RunTime:0.043522s ]
+
+[ 2016-06-20T15:18:55+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:18:55+08:00 ] 127.0.0.1 /design/index.php/Index/class=%22img-responsive
+ERR: 无法加载模块:class="img-responsive
+
+[ 2016-06-20T15:21:48+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003598s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('阿手动发士大夫','阿手动发手动阀违法撒日发的','/design/Public/images/img4.jpg',1466407308) [ RunTime:0.165718s ]
+
+[ 2016-06-20T15:21:51+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003456s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('阿手动发士大夫','阿手动发手动阀违法撒日发的','/design/Public/images/img4.jpg',1466407311) [ RunTime:0.068476s ]
+
+[ 2016-06-20T15:22:23+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003830s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啊水电费','了；考勤机福维克我去叫和了可就三的和不噶吉萨劳动法拉沙德就发和就啊可三的发哈','/design/Public/images/img4.jpg',1466407343) [ RunTime:0.139093s ]
+
+[ 2016-06-20T15:22:49+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002469s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004894s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('卡松井大辅喝了口酒撒的和发','卡手机动画发过来看就啊是个了可就阿和卡接受的副科级撒旦发','/design/Public/images/img4.jpg',1466407369) [ RunTime:0.078206s ]
+
+[ 2016-06-20T15:25:22+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+NOTIC: [8] Undefined variable: data C:\AppServ\www\design\APP\Lib\Action\Index\IndexAction.class.php 第 17 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004000s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('阿士大夫撒旦飞洒的发','发手动阀违法我说的发阿手动发士大夫撒旦法三的发','/design/Public/images/img4.jpg','70-01-01 08:00') [ RunTime:0.048916s ]
+
+[ 2016-06-20T15:27:03+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003478s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('阿水电费','福娃额诶不vdfbxvbcxvbxcvb阿手动发而非撒大概','/design/Public/images/img4.jpg','16-06-20 15:27') [ RunTime:0.105124s ]
+
+[ 2016-06-20T15:27:08+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004210s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('阿水电费','福娃额诶不vdfbxvbcxvbxcvb阿手动发而非撒大概','/design/Public/images/img4.jpg','16-06-20 15:27') [ RunTime:0.075552s ]
+
+[ 2016-06-20T15:27:41+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003283s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啊三度空间和腹部','卡；哀诉红人馆离开；就哈上两地分居更好撒了可就的发个哈啥','/design/Public/images/img4.jpg','16-06-20 15:27') [ RunTime:0.078817s ]
+
+[ 2016-06-20T15:59:48+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T16:36:33+08:00 ] 127.0.0.1 /design/index.php/Index/Single/id/Arrayid.html
+ERR: 非法操作:id
+
+[ 2016-06-20T16:36:56+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T16:38:56+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/25.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T16:40:19+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single&tid=25
+ERR: 非法操作:Single
+
+[ 2016-06-20T16:41:48+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single&tid=25
+ERR: 非法操作:Single
+
+[ 2016-06-20T16:41:49+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single&tid=25
+ERR: 非法操作:Single
+
+[ 2016-06-20T16:41:58+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single&tid=25
+ERR: 非法操作:Single
+
+[ 2016-06-20T16:42:05+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/25.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:12:32+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:15:55+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single
+ERR: 非法操作:Single
+
+[ 2016-06-20T17:15:59+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single
+ERR: 非法操作:Single
+
+[ 2016-06-20T17:16:07+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Gallery
+ERR: 非法操作:Gallery
+
+[ 2016-06-20T17:16:13+08:00 ] 127.0.0.1 /design/index.php?m=Index&a=Single&tid=Arrayid
+ERR: 非法操作:Single
+
+[ 2016-06-20T17:16:34+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:17:30+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:17:33+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:17:55+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:18:13+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:20:46+08:00 ] 127.0.0.1 /design/index.php/Index/Index
+ERR: 模板不存在[./APP/Tpl/Index/Index/index.html]
+
+[ 2016-06-20T17:22:02+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:22:52+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:04+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:16+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.html
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:19+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid.
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:21+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:24+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:25:26+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:27:31+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/1
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:27:32+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:27:33+08:00 ] 127.0.0.1 /design/index.php/Index/Single/tid/Arrayid
+ERR: 非法操作:tid
+
+[ 2016-06-20T17:27:42+08:00 ] 127.0.0.1 /design/index.php/Index/design/index.php/Index/Single?tid=2
+ERR: 无法加载模块:design
+
+[ 2016-06-20T17:39:37+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:39:37+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:39:37+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:39:37+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:40:37+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:40:37+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:40:37+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:40:37+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:41:21+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:45:07+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:45:07+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:45:07+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:46:07+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:46:07+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:46:07+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:46:07+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:46:30+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:46:30+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:46:30+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:46:30+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:46:30+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:47:52+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:48:14+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:48:14+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:48:14+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:48:14+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:48:14+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:49:09+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:20+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:20+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:49:20+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:49:20+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:20+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:49:29+08:00 ] 127.0.0.1 /design/index.php/Index/1
+ERR: 无法加载模块:1
+
+[ 2016-06-20T17:49:29+08:00 ] 127.0.0.1 /design/index.php/Index/%EF%BF%BD
+ERR: 无法加载模块:�
+
+[ 2016-06-20T17:49:29+08:00 ] 127.0.0.1 /design/index.php/Index/_
+ERR: 无法加载模块:_
+
+[ 2016-06-20T17:51:50+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T17:58:32+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003703s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啊数控刀具粉红色卡就的和发可就啊是个','快接啊收到过看见撒和的发可就啊和三大快接啊士大夫快接啊是的发卡金色都汇疯狂撒的积分手机号','/design/Public/images/img4.jpg','16-06-20 17:58') [ RunTime:0.059735s ]
+
+[ 2016-06-20T17:58:35+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.003451s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啊数控刀具粉红色卡就的和发可就啊是个','快接啊收到过看见撒和的发可就啊和三大快接啊士大夫快接啊是的发卡金色都汇疯狂撒的积分手机号','/design/Public/images/img4.jpg','16-06-20 17:58') [ RunTime:0.032077s ]
+
+[ 2016-06-20T17:59:10+08:00 ] 127.0.0.1 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.004692s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啊大叔大婶','礼金卡第三方哈萨克了的就发和卡三了就啊江湖私服贷记卡三的发和萨豆腐块机会','/design/Public/images/img4.jpg','16-06-20 17:59') [ RunTime:0.079055s ]
+
+[ 2016-06-20T17:59:15+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T18:00:23+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T18:03:50+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T18:05:04+08:00 ] 127.0.0.1 /design/index.php/Index/single.html
+ERR: 无法加载模块:single
+
+[ 2016-06-20T18:06:58+08:00 ] 127.0.0.1 /design/index.php/Index/%7Bv.pic_path%7D
+ERR: 无法加载模块:{v.pic_path}
+
+[ 2016-06-20T18:06:58+08:00 ] 127.0.0.1 /design/index.php/Index/%7Bv.pic_path%7D
+ERR: 无法加载模块:{v.pic_path}
+
+[ 2016-06-20T19:38:21+08:00 ] 127.0.0.1 /design/index.php/Single/Single/tid/%24id.html
+ERR: 非法操作:Single
+
+[ 2016-06-20T19:38:53+08:00 ] 127.0.0.1 /design/index.php/Single/Single/tid/%24id.html
+ERR: 非法操作:Single
+
+[ 2016-06-20T23:15:22+08:00 ] 127.0.0.1 /design/index.php/Admin/Notice/index.html
+ERR: 无法加载模块:Notice
+
+[ 2016-06-20T23:15:23+08:00 ] 127.0.0.1 /design/index.php/Admin/Notice/index.html
+ERR: 无法加载模块:Notice
+
+[ 2016-06-20T23:25:05+08:00 ] 127.0.0.1 /design/index.php/Admin/Index/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+ERR: 非法操作:noticelist
+
+[ 2016-06-20T23:31:21+08:00 ] 127.0.0.1 /design/index.php/Admin/Notice/index.html
+ERR: 无法加载模块:Notice
+
+[ 2016-06-20T23:31:22+08:00 ] 127.0.0.1 /design/index.php/Admin/Index/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_user` [ RunTime:0.003736s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_user` LIMIT 1   [ RunTime:0.001940s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_user` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000229s ]
+
+[ 2016-06-20T23:33:53+08:00 ] 127.0.0.1 /design/index.php/Admin/Index/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_user` [ RunTime:0.080425s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_user` LIMIT 1   [ RunTime:0.002245s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_user` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000270s ]
+

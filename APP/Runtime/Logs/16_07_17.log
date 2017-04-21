@@ -1,0 +1,109 @@
+[ 2016-07-17T17:04:41+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:07:52+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:07:55+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:08:18+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:08:20+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:08:27+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:08:49+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'115.159.202.161' (using password: YES)
+
+[ 2016-07-17T17:10:23+08:00 ] 127.0.0.1 /design/
+ERR: Access denied for user 'root'@'%' to database 'nature'
+
+[ 2016-07-17T17:15:35+08:00 ] 113.90.16.120 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.000976s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啦咯啦咯啦咯','啦咯啦咯啦咯','/design/Public/images/img4.jpg','16-07-17 17:15') [ RunTime:0.024410s ]
+
+[ 2016-07-17T17:17:07+08:00 ] 113.90.16.120 /design/index.php/Index/Index/handle
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.001952s ]
+SQL: INSERT INTO `na_news` (`title`,`content`,`pic_path`,`time`) VALUES ('啦咯啦咯啦咯困困','巴巴爸爸','/design/Public/images/img4.jpg','16-07-17 17:17') [ RunTime:0.008788s ]
+
+[ 2016-07-17T17:18:08+08:00 ] 113.90.16.120 /design/index.php/Admin/Message/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_message` [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\MessageAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\MessageAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\MessageAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_message` LIMIT 1   [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\MessageAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_message` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000977s ]
+
+[ 2016-07-17T17:18:14+08:00 ] 113.90.16.120 /design/index.php/Admin/News/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_news` LIMIT 1   [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_news` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000977s ]
+
+[ 2016-07-17T17:18:18+08:00 ] 113.90.16.120 /design/index.php/Admin/Index/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_user` [ RunTime:0.001952s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_user` LIMIT 1   [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\IndexAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_user` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000976s ]
+
+[ 2016-07-17T17:18:33+08:00 ] 113.90.16.120 /design/index.php/Admin/News/delete
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.001953s ]
+SQL: DELETE FROM `na_news` WHERE ( `id` = 5 ) [ RunTime:0.026363s ]
+SQL: DELETE FROM `na_news` WHERE ( `id` = 4 ) [ RunTime:0.010740s ]
+
+[ 2016-07-17T17:18:34+08:00 ] 113.90.16.120 /design/index.php/Admin/News/noticelist
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\AppServ\www\design\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `na_news` [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: title C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 14 行.
+NOTIC: [8] Undefined index: content C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 22 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `na_news` LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: where C:\AppServ\www\design\APP\Lib\Action\Admin\NewsAction.class.php 第 27 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\AppServ\www\design\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `na_news` ORDER BY id desc LIMIT 0,10   [ RunTime:0.000000s ]
+
